@@ -94,21 +94,21 @@ Congratulations! You are quite the socialite.
 
 恭喜！你是相当的社交名媛。
 
-Set up Git
+["Set up Git"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Set%20Up%20Git.md)
 
-设置Git
+“ 设置Git ”
 
-Create a repository
+["Create a repository"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Create%20A%20Repo.md)
 
-创建一个存储库
+“ 创建一个存储库 ”
 
-Fork a repository
+["Fork a repository"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Fork%20A%20Repo.md)
 
-分叉储存库
+“ 分叉储存库 ”
 
-Be social
+**Be social**
 
-是社交的
+**是社交的**
 
 Connect with people around the world in the GitHub Community Forum
 
