@@ -3,13 +3,13 @@
 
 ### Bootcamp 训练营
 
-[Set Up Git](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Set%20Up%20Git.md)设置Git
+[Set Up Git](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Set%20Up%20Git.md) 设置Git
 
-[Create A Repo](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Create%20A%20Repo.md)创建回购
+[Create A Repo](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Create%20A%20Repo.md) 创建回购
 
-[Fork A Repo](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Fork%20A%20Repo.md)叉A回购
+[Fork A Repo](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Fork%20A%20Repo.md) 叉A回购
 
-[Be Social](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Be%20Social.md)是社交
+[Be Social](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Be%20Social.md) 是社交
 
 ### Setup 建立
 
