@@ -88,12 +88,19 @@ Congratulations, you now have Git and GitHub all set up! What do you want to do 
 恭喜，你现在已经拥有了Git和GitHub！你想下一步该做什么？
 
 Set up Git
+
 设置Git
+
 "Create a repository"
+
 “ 创建一个存储库 ”
+
 "Fork a repository"
+
 “ 分叉储存库 ”
+
 "Be social"
+
 “ 社交 ”
 Connect with people around the world in the GitHub Community Forum
 
