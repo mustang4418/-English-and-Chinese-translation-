@@ -19,14 +19,20 @@ Note: You can create public repositories for an open source project. When creati
 1. In the upper-right corner of any page, click , and then click New repository. 
 
     在任何页面的右上角，单击 ，然后单击新建存储库。
+    
+    ![repo-create](https://help.github.com/assets/images/help/repository/repo-create.png)
 
 2. Type a short, memorable name for your repository. For example, "hello-world".
 
     为您的存储库输入一个简短而难忘的名称。例如，“你好，世界”。
+    
+    ![create-repository-name](https://help.github.com/assets/images/help/repository/create-repository-name.png)
 
 3. Optionally, add a description of your repository. For example, "My first repository on GitHub."
 
     或者，添加您的存储库的说明。例如，“我在GitHub上的第一个存储库”。
+    
+    ![create-repository-desc](https://help.github.com/assets/images/help/repository/create-repository-desc.png)
 
 4. Choose between creating a public or private repository.
     
