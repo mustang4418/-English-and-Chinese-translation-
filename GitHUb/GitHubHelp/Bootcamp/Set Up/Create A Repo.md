@@ -133,19 +133,19 @@ Congratulations! You have now created a repository, including a README file, and
 
 恭喜！您现在已经创建了一个存储库，其中包含一个README文件，并在GitHub上创建了您的第一个提交。你想下一步该做什么？
 
-"Set up Git"
+["Set up Git"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Set%20Up%20Git.md)
 
 “ 设置Git ”
 
-Create a repository
+**Create a repository**
 
-创建一个存储库
+**创建一个存储库**
 
-"Fork a repository"
+["Fork a repository"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Fork%20A%20Repo.md)
 
 “ 分叉储存库 ”
 
-"Be social"
+["Be social"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Be%20Social.md)
 
 “ 社交 ”
 
