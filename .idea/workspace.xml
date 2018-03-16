@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f346e86-c939-4f3d-b4d5-5f2b0c505d8c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GitHubHelp/Bootcamp/Set Up/SetUpGit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aa.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GitHubHelp/Bootcamp/Set Up/Set Up Git" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GitHubHelp/Bootcamp/Set Up/SetUpGit.md" afterPath="$PROJECT_DIR$/GitHubHelp/Bootcamp/Set Up/SetUpGit.md" />
     </list>
     <ignored path="-English-and-Chinese-translation-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +25,8 @@
       <file leaf-file-name="SetUpGit.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GitHubHelp/Bootcamp/Set Up/SetUpGit.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+            <state relative-caret-position="741">
+              <caret line="97" column="66" selection-start-line="97" selection-start-column="66" selection-end-line="97" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -516,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GitHubHelp/Bootcamp/Set Up/SetUpGit.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+        <state relative-caret-position="741">
+          <caret line="97" column="66" selection-start-line="97" selection-start-column="66" selection-end-line="97" selection-end-column="66" />
           <folding />
         </state>
       </provider>

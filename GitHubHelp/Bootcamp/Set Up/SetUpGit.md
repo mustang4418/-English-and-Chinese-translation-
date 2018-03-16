@@ -40,26 +40,60 @@ Being social
 
 
 ### Setting up Git
+设置Git
 
 Download and install the latest version of Git.
+
+下载并安装最新版本的Git。
+
 Set your username in Git.
+
+在Git中设置你的用户名。
+
 Set your commit email address in Git.
+
+在Git中设置您的提交电子邮件地址。
+
 
 ### Next steps: Authenticating with GitHub from Git
 
+后续步骤：使用Git的GitHub进行身份验证
+
 When you connect to a GitHub repository from Git, you'll need to authenticate with GitHub using either HTTPS or SSH.
 
+当您从Git连接到GitHub存储库时，您需要使用HTTPS或SSH对GitHub进行身份验证。
+
+
 **Connecting over HTTPS (recommended)**
+
+通过HTTPS连接（推荐）
+
 If you clone with HTTPS, you can cache your GitHub password in Git using a credential helper.
 
+如果使用HTTPS进行克隆，则可以使用凭证助手将GitHub密码缓存到Git中。
+
 **Connecting over SSH**
+
+通过SSH连接
+
 If you clone with SSH, you must generate SSH keys on each computer you use to push or pull from GitHub.
 
+如果使用SSH进行克隆，则必须在每台用于从GitHub推送或拉出的计算机上生成SSH密钥。
+
 ### Celebrate
+庆祝
+
 Congratulations, you now have Git and GitHub all set up! What do you want to do next?
 
+恭喜，你现在已经拥有了Git和GitHub！你想下一步该做什么？
+
 Set up Git
+设置Git
 "Create a repository"
+“ 创建一个存储库 ”
 "Fork a repository"
+“ 分叉储存库 ”
 "Be social"
+“ 社交 ”
 Connect with people around the world in the GitHub Community Forum
+在GitHub社区论坛中与世界各地的人联系
