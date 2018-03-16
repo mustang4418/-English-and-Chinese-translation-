@@ -5,13 +5,13 @@
 
 ### Bootcamp
 
-Set Up Git
+[Set Up Git](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Set%20Up%20Git.md)
 
-Create A Repo
+[Create A Repo](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Create%20A%20Repo.md)
 
-Fork A Repo
+[Fork A Repo](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Fork%20A%20Repo.md)
 
-Be Social
+[Be Social](https://github.com/mustang4418/-English-and-Chinese-translation-/blob/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Be%20Social.md)
 
 ### Setup
 
