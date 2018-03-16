@@ -87,21 +87,22 @@ Congratulations, you now have Git and GitHub all set up! What do you want to do 
 
 恭喜，你现在已经拥有了Git和GitHub！你想下一步该做什么？
 
-Set up Git
+**Set up Git**
 
-设置Git
+**设置Git**
 
-"Create a repository"
+["Create a repository"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Create%20A%20Repo.md)
 
 “ 创建一个存储库 ”
 
-"Fork a repository"
+["Fork a repository"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Fork%20A%20Repo.md)
 
 “ 分叉储存库 ”
 
-"Be social"
+["Be social"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Be%20Social.md)
 
 “ 社交 ”
+
 Connect with people around the world in the GitHub Community Forum
 
 在GitHub社区论坛中与世界各地的人联系
