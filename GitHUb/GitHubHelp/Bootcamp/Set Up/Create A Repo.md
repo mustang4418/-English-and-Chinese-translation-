@@ -47,9 +47,12 @@ Note: You can create public repositories for an open source project. When creati
 
     私人存储库需要更多的设置。它们仅供您，资源库所有者以及您选择与之共享的任何合作者共享。私人存储库仅适用于付费帐户。有关更多信息，请参阅“ GitHub的计费计划”。
 
+    ![create-repository-public-private](https://help.github.com/assets/images/help/repository/create-repository-public-private.png)
+
 5. Select Initialize this repository with a README.
 
     选择使用自述文件初始化此存储库。
+    ![create-repository-init-readme](https://help.github.com/assets/images/help/repository/create-repository-init-readme.png)
 
 6. Click Create repository.
     
@@ -79,6 +82,8 @@ Let's commit a change to the README file.
 1. In your repository's list of files, click README.md.
 
 在存储库的文件列表中，单击README.md。
+
+![create-commit-open-readme](https://help.github.com/assets/images/help/repository/create-commit-open-readme.png)
  
 2. Above the file's content, click .
 
@@ -88,25 +93,37 @@ Let's commit a change to the README file.
 
 在编辑文件选项卡上，键入有关您自己的一些信息。
 
+![edit-readme-light](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+
 4. Above the new content, click Preview changes.
 
 在新内容上方，点击预览更改。
+
+![edit-readme-preview-changes](https://help.github.com/assets/images/help/repository/edit-readme-preview-changes.png)
 
 5. Review the changes you made to the file. You'll see the new content in green.
 
 检查您对文件所做的更改。你会看到绿色的新内容。
 
+![create-commit-review](https://help.github.com/assets/images/help/repository/create-commit-review.png)
+
 6. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message. For more information, see "Creating a commit with multiple co-authors."
 
 在页面的底部，键入一个简短而有意义的提交消息，描述您对该文件所做的更改。您可以将提交属性提交给提交消息中的多个作者。有关更多信息，请参阅“ 使用多个共同作者创建提交。”
+
+![write-commit-message-quick-pull](https://help.github.com/assets/images/help/repository/write-commit-message-quick-pull.png)
 
 7. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request.
 
 在提交消息字段下面，决定是否将提交添加到当前分支或新分支。如果您当前的分支是master，您应该选择为您的提交创建一个新的分支，然后创建一个拉取请求。
 
+![choose-commit-branch](https://help.github.com/assets/images/help/repository/choose-commit-branch.png)
+
 8. Click Propose file change.
 
 点击建议文件更改。
+
+![propose-file-change-quick-pull](https://help.github.com/assets/images/help/repository/propose-file-change-quick-pull.png)
 
 ### Celebrate
 

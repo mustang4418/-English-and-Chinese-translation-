@@ -68,6 +68,8 @@ Forking a repository is a simple two-step process. We've created a repository fo
 
     在页面的右上角，点击叉子。
 
+    ![fork_button](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+
 That's it! Now, you have a fork of the original octocat/Spoon-Knife repository.
 
 而已！现在，你有一个原始的octocat /勺刀库的叉子。
@@ -101,9 +103,13 @@ Right now, you have a fork of the Spoon-Knife repository, but you don't have the
 
 在存储库名称下，单击克隆或下载。
 
+![clone-repo-clone-url-button](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
+
 3. In the Clone with HTTPs section, click  to copy the clone URL for the repository.
 
 在“克隆与HTTPs”部分中，单击  复制存储库的克隆URL。
+
+![https-url-clone](https://help.github.com/assets/images/help/repository/https-url-clone.png)
 
 4. Open Terminal.
 
@@ -149,9 +155,13 @@ When you fork a project in order to propose changes to the original repository, 
 
 在存储库名称下，单击克隆或下载。
 
+![clone-repo-clone-url-button](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
+
 3. In the Clone with HTTPs section, click  to copy the clone URL for the repository.
 
 在“克隆与HTTPs”部分中，单击  复制存储库的克隆URL。
+
+![https-url-clone](https://help.github.com/assets/images/help/repository/https-url-clone.png)
 
 4. Open Terminal.
 
