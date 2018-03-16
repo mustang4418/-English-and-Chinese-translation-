@@ -257,19 +257,19 @@ You have now forked a repository, practiced cloning your fork, and configured an
 
 您现在分叉了一个存储库，练习克隆您的分叉，并配置了一个上游存储库。你想下一步该做什么？
 
-"Set up Git"
+["Set up Git"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Set%20Up%20Git.md)
 
 “ 设置Git ”
 
-"Create a repository"
+["Create a repository"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Create%20A%20Repo.md)
 
 “ 创建一个存储库 ”
 
-Fork a repository
+**Fork a repository**
 
-分叉储存库
+**分叉储存库**
 
-"Be social"
+["Be social"](https://github.com/mustang4418/-English-and-Chinese-translation-/edit/master/GitHUb/GitHubHelp/Bootcamp/Set%20Up/Be%20Social.md)
 
 “ 社交 ”
 
