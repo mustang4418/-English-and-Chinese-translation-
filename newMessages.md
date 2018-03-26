@@ -157,11 +157,11 @@
 
 
 
+2018/3/23: One person’s craziness is another’s reality. 一个人的疯狂, 是另一个人的日常. Crazy[creizi]:adj. 疯狂的. Adj+ness经常是形容词变成名词的方式. Another: adj 另一个. Pron另一个人. Reality: [rɪ'ælɪtɪ]n. 现实. 形容词是 real.
 
 
 
-
-
+2018/3/24: Today is the first day of the rest of your life. 每天是一个新开始. First: 之前讲过的序数词, 第一. Rest: vt休息. N. 休息, 剩余部分. The rest of… 余下的, 剩下的. Ex. What to do with all the rest of the backlog? 对剩余部分的积压列表将会如何处理呢? 
 
 
 
