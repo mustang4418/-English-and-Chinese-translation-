@@ -164,6 +164,20 @@
 2018/3/24: Today is the first day of the rest of your life. 每天是一个新开始. First: 之前讲过的序数词, 第一. Rest: vt休息. N. 休息, 剩余部分. The rest of… 余下的, 剩下的. Ex. What to do with all the rest of the backlog? 对剩余部分的积压列表将会如何处理呢? 
 
 
+2018/3/27: The grass is always greener on the other side of the fence. 邻家芳草绿, 隔岸风景好. Grass: n. 草. Always: [ˈɔ:lweɪz] adv: 永远. 一直. Greener绿的比较级. Other side: 一共只有两面，所以另一面就是other side. Fence: n. 栅栏. 这句话可以使用于: 隔壁家啥啥都比自己的好…
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
