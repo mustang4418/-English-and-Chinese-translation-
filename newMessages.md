@@ -168,6 +168,7 @@
 
 
 
+2018/3/28: Health is the first wealth in life. 健康是人生第一财富. Health: [helθ]n. 健康. Healthy: ['helθɪ] adj健康的. A healthy lifestyle:一个健康的生活方式. Wealth: [welθ]:n. 财富. Wealthy: ['welθɪ]adj. 富有的. 健康最重要了, 开春了, 感觉大家最近都很有锻炼的热情. 在英语中有很多n词尾加y变成adj. 比如: rain-rainy, sun-sunny, luck-lucky, noise-noisy…
 
 
 
