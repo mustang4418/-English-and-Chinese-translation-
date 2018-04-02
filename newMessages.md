@@ -172,13 +172,14 @@
 
 
 
+2018/3/29: There are no waves without wind. There’s no smoke without fire. 无风不起浪. 无火不成烟. There be: 有… , no是adj, 直接修饰后面跟的名词. 可以理解为 “无, 零”, he left home with no hesitation. 他毫不犹豫的离开了家(他带着零犹豫离开了家). wave [weɪv]: vt. 摇动, 挥手.wave to… 朝…挥手.  n. 海浪, 波动. 本句直译: 没有风的时候, 有零波浪. 没有火的时候, 有零烟.
+
+
+ 2018/3/30: history is the witness of times, the teacher of life. 历史是时间的见证人, 人生的导师. 本句也是介词of的用法. A of B就是B的A. witness: [ˈwɪtnɪs]: n. 证人. Vt. 见证. Ex. They witnessed the event.他们见证了事件. 
 
 
 
-
-
-
-
+2018/4/2: The course of life is like the sea, people come and go, tides rise and fall. 生命的过程就像是海洋, 人来人往, 潮涨潮落. Course: [kɔːs]n. 过程, 课程. The course of life: 生命的过程. Like: v. 喜欢，prep. 像. 所以像…要用 be like…如: he likes me. 他喜欢我. He is like me. 他像我. Tide[taɪd]:n. 潮汐, 潮流. Rise and fall: 涨落. Rise和fall这两个词都是既有名词性又有动词性. 这句使用的是动词性. The rise and fall of tides: 潮汐的涨落. 这样用就是名词性.
 
 
 
