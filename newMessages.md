@@ -183,3 +183,17 @@
 
 
 
+
+
+2018/4/3: All things are difficult before they are easy. 凡事总是由难而易. Before: 在…之前. Difficult: adj 难的, easy: adj. 简单的. 这句话也可以说成all things are easy after they are difficult. 难都是暂时的, 只要付出努力一定会变简单. 与大家共勉.
+
+
+
+ 2018/4/4: Choose an author as you choose a friend. 择书如择友. author['ɔːθə]: n. 作者. As: prep. 作为… 如: we selected him as our leader. 我们选择他作为领导. 像, 如同…(用于比较) as we know: 众所周知(如大家所知…) 本句直译: 像选择一个朋友一样选择一本书.
+
+
+
+
+
+
+
