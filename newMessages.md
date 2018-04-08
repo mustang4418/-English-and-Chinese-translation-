@@ -194,6 +194,33 @@
 
 
 
-
+ 2018/4/8: Confidence in yourself is the first step on the road to success. confidence['kɒnfɪdəns]: n. 信心. 自信. Confidence in…对…的信任(信心). Confident['kɒnfɪdənt]: adj. 自信的. 确信的. I feel quite confident about the future: 我对未来很有信心. –self: …自己. Myself我自己, yourself你自己, himself他自己, herself她自己… the road to success去成功的道路. 本句翻译: 对自己的信心是通往成功道路的第一步.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
