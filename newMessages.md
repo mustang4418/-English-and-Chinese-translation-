@@ -197,13 +197,13 @@
  2018/4/8: Confidence in yourself is the first step on the road to success. confidence['kɒnfɪdəns]: n. 信心. 自信. Confidence in…对…的信任(信心). Confident['kɒnfɪdənt]: adj. 自信的. 确信的. I feel quite confident about the future: 我对未来很有信心. –self: …自己. Myself我自己, yourself你自己, himself他自己, herself她自己… the road to success去成功的道路. 本句翻译: 对自己的信心是通往成功道路的第一步.
  
  
+ 2018/4/9: No man is rich enough to buy back his own past. 没有人足够富有到可以买回自己的过去. No是adj词性, 表示”无, 零” No+名词当单数名词处理, 因此be动词用is. Enough有adj和adv的词性, rich enough足够富有, own: adj自己的. His own他自己的. My own我自己的, your own 你自己的… past词性很多: adj&n 过去, 过去的. Her past performance 她过去的表现. Prep介词: run past me. 跑过我… 今天的例句中是名词性.
  
  
+ 2018/4/10: Gifts blind the eyes. 拿了手短, 吃了嘴软. Gift[gift]: n. 礼物, 天赋. a gift for languages. 语言天赋. vt. 赋予. Gifted: adj. 有天赋的. 有才华的. Blind[blaind]: adj盲目的. 盲的. Love is blind爱情是盲目的. Vt. 使…失明. 使…盲目. 本句直译: 礼物使眼睛盲目. (拿了礼物就看不到别人的缺点了)
  
  
- 
- 
- 
+ 2018/4/11: To love oneself is the beginning of a lifelong romance. 爱自己是终身浪漫的开始. 之前有提到过－self是自己. Oneself自己, 自身. To do…和v+ing一样可以在句首当做n使用. 比如: to write is to live forever. 写作让人永生. Beginning: n. 开始. Begin词尾是重音, 并且辅元辅的组合, 因此双写n加ing. Romance[rə(ʊ)'mæns]: 浪漫. 中文浪漫即为romance的音译.
  
  
  
