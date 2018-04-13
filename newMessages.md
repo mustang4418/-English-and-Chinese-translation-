@@ -206,7 +206,7 @@
  2018/4/11: To love oneself is the beginning of a lifelong romance. 爱自己是终身浪漫的开始. 之前有提到过－self是自己. Oneself自己, 自身. To do…和v+ing一样可以在句首当做n使用. 比如: to write is to live forever. 写作让人永生. Beginning: n. 开始. Begin词尾是重音, 并且辅元辅的组合, 因此双写n加ing. Romance[rə(ʊ)'mæns]: 浪漫. 中文浪漫即为romance的音译.
  
  
- 
+ 2018/4/13: Apple has released iOS 11.3, which is a significant software update. (本句来自福布斯新闻)Apple已经发布了IOS 11.3, 它是一个重大的软件更新. 本句即为现在完成时态. Which在这里不能翻译成哪一个. Which在这里是定语从句的用法, 指代IOS11.3, 以后会具体讲, 大家可以提前了解一下. 
  
  
  
