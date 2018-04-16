@@ -209,7 +209,7 @@
  2018/4/13: Apple has released iOS 11.3, which is a significant software update. (本句来自福布斯新闻)Apple已经发布了IOS 11.3, 它是一个重大的软件更新. 本句即为现在完成时态. Which在这里不能翻译成哪一个. Which在这里是定语从句的用法, 指代IOS11.3, 以后会具体讲, 大家可以提前了解一下. 
  
  
- 
+ 2018/4/16: As a young boy, having two strong fathers both influencing me was difficult. As: prep. 作为. Both: adj&adv两者都… 如果是三个及以上用all. 本句话主语是having two strong fathers both influencing me. V+ing动名词可以做主语. 本句译为: 作为一个小男孩儿, 受两个强势的父亲影响是非常困难的. (本句来自知名书籍:穷爸爸富爸爸Rich dad poor dad)
  
  
  
