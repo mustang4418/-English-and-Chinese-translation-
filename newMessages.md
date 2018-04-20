@@ -213,7 +213,13 @@
  
  
  
+ 2018/4/17: Chan says he has built bamboo theaters in locations as dangerous as cliff edges and steep hills. Has built能看出本句是现在完成时态, 表示已经建造了…bamboo: n. 竹子. Adj. 竹子的. theater['θɪətə]:n. 剧院, 戏院. Location[ləʊ'keɪʃ(ə)n]:n. 位置. As adj as…: 像…一样. Cliff[klif]:n. 悬崖. Edge[edʒ]:n.边缘. Steep[sti:p]adj.陡峭的. Hill[hil]n. 山丘(比mountain矮的山). 本句译为: 陈说他已经在像悬崖边, 陡山上这样危险的地方建造过竹子戏院. (本句来自一则介绍香港竹剧院的报道)
  
+ 
+ 2018/4/18: we have been unable to withdraw cash from ATMs, they have run out of cash. Be able to: (有能力/办法)能…. Be unable to:(没有能力/办法)能… he is able to fix the bug. Run out of:用完, 耗尽. 本句中have been 和have run都是完成时用法. 翻译: 我们已经不能从ATM取现金了, 它们已经没有现金了.(本句是关于印度经济的新闻).
+ 
+ 
+ 2018/4/20: Over the years, there have been some attempts to change the aircraft design. There be: 有… there have been…完成时, 已经有… attempt[ə'tem(p)t]: n. 尝试. Vt. 尝试. 本句译为: 多来年, 已经有一些尝试去改变飞机设计. 
  
  
  
