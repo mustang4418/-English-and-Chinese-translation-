@@ -222,6 +222,107 @@
  2018/4/20: Over the years, there have been some attempts to change the aircraft design. There be: 有… there have been…完成时, 已经有… attempt[ə'tem(p)t]: n. 尝试. Vt. 尝试. 本句译为: 多来年, 已经有一些尝试去改变飞机设计. 
  
  
+ 2018/4/23: The government says it’s extending last year’s ban on imports of recyclable items. Extend[ɪk'stend]vt. 延长, 扩展. Last year去年. Ban:[bæn]vt&n.禁令, 禁止. on…介词, 表示在…方面. 本句译为: 政府将延长去年的关于可回收物品的进口方面的禁令. 本句是现在进行时用法, 但实际上表示的是将来时. 有些词意与转移, 变化有关的动词, 比如come, go, leave等可以用现在进行表示将来的意思. I’m coming. 我正在来, 就是我快到了.
+ 
+ 
+ 2018/4/24: The CEO of Korean Air is firing his daughters. Korean[kə'riən]adj. 韩国的. n. 韩国人, 韩国语. Air: n. 空气, 航空. 天空. 空中. Jump into the air:跳到半空. Korean Air: 大韩航空. Fire: n. 火. Vt. 解雇. 本句也是现在进行时表示将来时. 开除就是一个和变化有关的一瞬间的动词, 所以正在开除就是将开除. 本句译为: 大韩航空CEO将解雇他的(两个)女儿.
+ 
+ 
+ @channel 2018/4/25: People in China will eat about 56 million tons of pork this year, more than any other country. Ton: n. 重量单位，吨. …重量(长度等)单位+of: …重量(长度等)单位的… 如: 70 meters of water. 70米深的水. Any other…其它任何… 本句译为: 中国人今年将会吃掉5千600万吨猪肉, 比其它任何国家都多
+ 
+ 
+2018/4/26: They’ll eat food from the Korean Peninsula’s far north and south, including cold noodles, dumplings and barbecued beef. Peninsula[pɪ'nɪnsjʊlə]: n. 半岛. Korean peninsula朝鲜半岛. Cold noodle: 冷面. Dumpling['dʌmplɪŋ]: 饺子. Barbecue['bɑːbɪkjuː]n.烤肉. Vt. 烧烤, 烤. Beef: n. 牛肉. 本句译为: 他们将吃来自朝鲜半岛遥远的北方和南方的食物, 包括冷面，饺子和烤牛肉. (这是朝韩峰会上为领导人们定下来的菜谱). 
+ 
+ 
+ 2018/4/26: if she had not supported my dream project, it would have never been a reality. Had+动词过去分词即为过去完成时. 如果之前她没有支持我的梦想工程, 它就不会成为了一个现实, would是will的过去式. (本新闻背景一个小孩儿用lego造了一个超大的泰坦尼克号模型). 
+
+ 
+ @channel 2018/4/28: Trump has called for up to $150 billion in additional tariffs on Chinese goods as punishment. Call for固定搭配词组, 意为要求. Up to…多达…  additional[ə'dɪʃənl]adj. 额外的. 本词是add的变化, 加上去的就是额外多的. Tariff['tærɪf]n. 关税. As: 作为. Punish['pʌnɪʃ]vt.惩罚. Punishment: n. 惩罚. 本句译为: Trump已经要求在中国货物上的多达一千五百亿美金的额外关税来作为惩罚(新闻背景为ZTE事件).
+ 
+ 
+ 2018/5/2: Children’s cartoon character Peppa Pig has come under fire in China. 
+ Cartoon[kɑː'tuːn]n. 卡通是这个单词的音译. Character: ['kærəktə]n. 角色, 性格, 字符(可以联想为一个民族的字符代表着这个民族的性格). Come under fire: 到了火的下面就是指遭到射击, 遭到批评. come过去分词和原型拼写一致. 本句译为: 在中国, 儿童卡通形象小猪佩奇遭到抨击.
+ 
+ 
+2018/5/3: One of its most famous landmarks, the Taj Mahal, is showing signs of discoloration. Most famous最有名的, landmark['lændmɑːk]n. 标志建筑. 地标. Taj Mahal: 印度泰姬陵. Sign[sain]: n.迹象, 手势. Vt. 签名. 签署. Discoloration. n. 掉色. Color是颜色, dis-是一个常用的前缀否定, 如disagree不同意, 以及今年rapper界流行词diss. 本句是一个现在进行时句子, 译为: 印度最有名的标志建筑之一, 泰姬陵正在显现掉色的迹象.
+
+
+2018/5/4: Many of the industries surrounding the monument must be relocated. 
+Surrounding, surround围绕的现在分词, 也起到的是adj的作用，surrounding the monument纪念碑: 围绕着纪念碑的…. 如果是单独一个词就放在名词前做adj, 如果是短语就放在名词后面, 和过去分词的adj用法也是一样的. 本句翻译: 围绕在纪念碑周围的很多行业必须被迁移走.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
