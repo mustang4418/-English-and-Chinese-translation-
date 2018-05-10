@@ -251,13 +251,13 @@
 Surrounding, surround围绕的现在分词, 也起到的是adj的作用，surrounding the monument纪念碑: 围绕着纪念碑的…. 如果是单独一个词就放在名词前做adj, 如果是短语就放在名词后面, 和过去分词的adj用法也是一样的. 本句翻译: 围绕在纪念碑周围的很多行业必须被迁移走.
 
 
+ 2018/5/7: The three countries ranked highest for life expectancy are Monaco, Japan, and Singapore. 本句的主干是the three countries are Monaco, Japan, and Singapore. Rank[ræŋk]vt&n. 排列, 排名. Ranked是其过去分词. 过去分词可以起到adj的作用. Ranked highest for life expectancy用来修饰three countries, 是一个短语, 因此放在其后. life expectancy预期寿命. 本句译为: 因为预期寿命被排在最高的三个国家是摩纳哥, 日本, 和新加坡(分别为89.4，85.3，和85.2)
 
 
+2018/5/8: Airline websites have become the newest battleground between the United States and China. 本句是现在完成时, have become已经成为. Become的过去分词也为become. 属于不规则变化, 过去式为became. Newest是new的最高级. Battlefield: 战场. Between: 常用介词, between A and B: 在A和B之间. 本句译为: 航空公司的网站成了美国和中国之间的新战场(本新闻背景为有些航空公司的网站上台湾香港和澳门的归属不明)
 
 
-
-
-
+2018/5/9: “Third Fatty” is demonstrating that he has a mind of his own. 本句是现在进行时态, demonstrate['demənstreɪt]vt.展示. is demonstrating: 正在展示出… 本句中的that没有实质含义，仅是一个连接词. 在宾语/表语为一整句话时会有此用法. 如I know that you are a good man我知道(你是个好人). His own他自己的. 本句译为: Third Fatty 正在展示出他有他自己的想法. (新闻背景为昨天离我们很近的事)
 
 
 
