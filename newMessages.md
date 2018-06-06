@@ -261,40 +261,39 @@ Surrounding, surround围绕的现在分词, 也起到的是adj的作用，surrou
 
 
 
+ 2018/5/23 Zuckerberg was questioned on Tuesday by political leaders and lawmakers for about 80 minutes. 本句是过去式, 被动句. Zuckerberg是facebook的创始人, question: n. 问题, vt. 审问. Leader: 领导者, 首领. Lawmaker: n. 立法者. Law法律, maker制作者. 很多动词在词尾加er/or变为名词性. 如build->builder, create->creator… 本句译为: 在周二, Zuckerberg被政治领导人和立法者们审问了80分钟.
 
 
+2018/5/24: The search for flight MH370 will end next week after more than four years. Will标志了本句为将来时, Flight [flaɪt]: n. 航班. End: n&v. 结束. Search for…对于…的搜索. 本句译为: 在经过了四年多之后, 对于航班MH370的搜索将在下周结束.
 
-
-
+ 
+ 2018/5/25: If you don’t get enough sleep, you wake up with that sleep pressure and start the day with a higher need for it. 本句是一个一般现在时句, 表示一种常态. Wake up: 固定动词搭配, 醒来. Sleep: n.&v. 睡觉. Pressure['preʃə]:n. 压力. Need: n.&v. 需要. 本句翻译: 如果你睡眠不足, 你醒来的时候会带有睡眠压力, 并且开始带着更高的睡眠需求开始一天.
+ 
+ 
+2018/5/28: China’s youngest female billionaire((Known as Milk Tea Sister) sold Sydney penthouse for $18 Million. Youngest: young的最高级, 最年轻的. Female: adj女性的. 雌性的. Male: adj. 男性的, 雄性的. Billion: n. 十亿. Billionaire: n. 亿万富翁. Known是know的过去分词, 当adj就是被…知道. Known as…: 作为…被人知道. Penthouse: 顶层高级公寓. 本句译为: 中国最年轻的女性亿万富翁(被称为奶茶妹妹)1800万美金卖了悉尼的一个顶层高级公寓(赚了大概600万美金) 
+ 
+ 
+ 2018/5/29: Europe is proposing a ban on single-use plastic items, such as cutlery and straws.  Europe['jʊrəp]n. 欧洲. Propose[prə'pəʊz]vt. 建议, 计划, 求婚. Ban[bæn]: n. 禁令, vt. 禁止. Plastic['plæstɪk]: adj. 塑料的. Single-use: single['sɪŋɡl]adj. 单一的, 单独的. Are you single?你单身吗… single-use: 一次性的. Such as常用词组搭配, 比如… cutlery['kʌtlərɪ]n. 餐具. Straw[strɔː]n. 稻草, 吸管. 本句译为: 欧洲正在计划一个关于一次性塑料用品的禁令, 比如餐具和吸管.
+ 
+ 
+ 2018/5/30: The White House said the administration would impose 25% tariffs on $50billion worth of goods from China. The white house: 白色的房子, 即白宫. Administration管理部门, impose[ɪm'pəʊz]vt. 强加, 征收. Tariff['tærɪf]n. 关税. On…在…方面. Worth[wɝθ]n. 价值. Goods: n. 货物。 本句译为: 白宫说管理部门将会在来自中国的价值500亿的货物上征收25%的关税(新闻背景: 并且对于中国投资美国高科技产业方面设置了新限制)
  
  
  
+ 2018/5/31: China promises to be one of the largest markets for supersonic air travel. Promise['prɒmɪs]:n.& vt. 承诺. Promise to be 不定式用法, 两个动词之间用to来链接, to后的动词用原型. 承诺成为…  super… :超… superman超人. Sonic['sɒnɪk]: adj 声音的, 音速的. Supersonic超音速的. Air travel: 航空旅行. 本句译为: 中国承诺将成为超音速航空旅行最大的市场之一(预计上海到洛杉矶五个小时).
+ 
+ 
+2018/6/1: Cow’s milk is a good source of several important nutrients, including protein, calcium and vitamin D… source[sɔːs]: n. 来源. Several[ˈsevrəl]adj. 多个, 数个… nutrient['njuːtrɪənt]n. 营养物. 养分. Protein['prəʊtiːn]n. 蛋白质. Calcium['kælsɪəm]: n. 钙. Vitamin['vaɪtəmɪn]n. 维他命, 维生素. 本句翻译: 牛奶是多种重要养分的好来源, 包括蛋白质, 钙和维它命D…(儿童要多喝牛奶). 
+ 
+ 
+ 2018/6/4: Low-cost Thai carrier Nok decided to have fun with its planes and paint them as colorful birds. Low-cost: adj. 廉价的. 英语中很多adj是复合起来的, 比如low-profit: 低利润的. High-profile: 高调的. Carrier: n. (航空)运输公司. Paint: vt. 涂色. n. 油漆. 本句译为: 廉价的泰国航运公司Nok决定用他们的飞机得到乐趣并将它们涂作了彩色的鸟.
+ 
+ 
+ 2018/6/5: At least 62 people were killed after the volcano erupted on Sunday. At least: 至少. People: n. 人. People这个词是一个集合名词, 本身就是复数. 不用peoples. 此类名词还有Police, 警方等… 因此动词为were, 而不是was… volcano[vɒl'keɪnəʊ]n. 火山. Erupt[ɪ'rʌpt]vt. 爆发. Erupted为其过去式, 是规则的变化. 本句译为: 在周日的火山爆发后至少62人丧生(危地马拉发生火山爆发, 那是一个火山一整年都在喷发的地方).
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  2018/6/6: Generally speaking, you can tell whether eggs will be white by looking at a hen’s earlobes, hens with white earlobes generally lay white eggs. General['dʒen(ə)r(ə)l]adj. 通常的, 大体的. Generally speaking: 通常来说, 一般来说. Whether['weðə]: 是否. 通常放在句首. By…介词, 凭借. Hen: n. 母鸡. Earlobe: ear是耳朵, earlobe['ɪələʊb]n. 耳垂. Lay[lei]vt. 放置, 下蛋(母鸡把蛋放下就是下蛋). 本句译为: 通常来说, 你可以通过看一个母鸡的耳垂来分辨鸡蛋是否会是白色, 有白色耳垂的母鸡通常会下白色的鸡蛋.
  
  
  
