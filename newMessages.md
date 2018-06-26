@@ -296,37 +296,72 @@ Surrounding, surround围绕的现在分词, 也起到的是adj的作用，surrou
   2018/6/6: Generally speaking, you can tell whether eggs will be white by looking at a hen’s earlobes, hens with white earlobes generally lay white eggs. General['dʒen(ə)r(ə)l]adj. 通常的, 大体的. Generally speaking: 通常来说, 一般来说. Whether['weðə]: 是否. 通常放在句首. By…介词, 凭借. Hen: n. 母鸡. Earlobe: ear是耳朵, earlobe['ɪələʊb]n. 耳垂. Lay[lei]vt. 放置, 下蛋(母鸡把蛋放下就是下蛋). 本句译为: 通常来说, 你可以通过看一个母鸡的耳垂来分辨鸡蛋是否会是白色, 有白色耳垂的母鸡通常会下白色的鸡蛋.
  
  
+ 2018/6/7: If you haven’t been to Hong Kong in a while, now is the time to book another trip. 本句前半句是现在完成时, 后半句是一般现在时. In a while: 词组, 一段时间. Book[buk]vt. 预定. n. 书. Trip: n. 旅行. Vt. 绊. He tripped and fell. 他绊了一下跌倒了. 本句译文: 如果你有一段时间没有到过香港了, 现在是时候预订再一次旅行了. (香港今年将有九个新景点)。
+ 
+ 
+  2018/6/8: Some companies have already determined that the risk of doing business in Iran is too great. 本句为现在完成时, that在本句中只是一个连接词. 经常发生在宾语是一个完整的句子时, 也可以省略. 如: I know that it is real. 我知道它是真实的. Do business 做生意. Risk: n. 风险. Too: adv. 常用意思: 也, 如me, too. 修饰adj, 太… too loud: 太吵了. 本句译为: 一些国家已经确定了在伊朗做生意的风险是太大了. 
+ 
+ 
+ 2018/6/11: Warmer ties between the two countries have been highly publicized in Russian and Chinese state media in recent months. 本句是完成时态, 被动式. 并且地点副词放在时间副词前. Between: prep, 在两者之间. Highly: ['haɪlɪ] adv. 高度地. 用来修饰publicize['pʌblisaiz]vt. 宣传, 宣扬. Media['miːdɪə]n. 媒体. State media: 官方媒体. Recent: adj. 最近的. 本句译为: 两国之间更火热的联系在最近几个月里在俄国和中国的官方媒体被高度的宣传.
+ 
+ 
+ 2018/6/12: more and more countries are developing mutually beneficial ties with China on the basis of one China principle. More and more: 越来越多的… mutual['mjuːtʃʊəl]: adj. 共同的, 相互的. Mutually是它的副词形式, 修饰beneficial[benɪ'fɪʃəl]adj. 有益的. Tie[tai]n. 领带, 联系vt. 系. Basis[beisis]n. 基础. Principle[prinsəpl]n. 原则. 本句译文: 越来越多的国家正在一个中国原则的基础上, 与中国发展互利的联系.
+ 
+ 
+  2018/6/13: Originally the owner hoped to build a viewing platform here for people to see the canyon. Originally[ə'rɪdʒɪnəlɪ]adv. 最开始, 最初. 是一个表示时间的副词, 通常放在句首. hope to build不定式用法, 希望建造. Viewing是view的现在分词形式, 在这里是adj, view是n风景, v查看. Viewing:观察的, 修饰platform(平台), viewing platform: n.观景台. For: 介词, 为… 给… canyon['kænjən]n. 峡谷. 本句译为: 最初, 所有者希望在这儿建造一个观景台让大家看峡谷.
+ 
+ 
+ 2018/6/14: I’m sure in time, we will be stronger for this decision. We wish him the best of luck. Sure[ʃʊər]:adj. 确定的. In time: 早晚…迟早…, the best of luck: A of B就是B的A, 运气中的最好的, 即好运. 本句译文: 我确定迟早，我们会因为这个决定变得更强大, 我祝他好运. (新闻背景: 在世界杯前夕, 西班牙国家队解雇了主帅)
  
  
  
+ 2018/6/15: five-time winner Brazil wants the trophy back, while Germany is trying to become the first repeat champion since 1962. 两个词中间一个连字符做adj使用. Five-time: 五次的. Brazil[brə'zil]:n. 巴西. Trophy['trəʊfɪ]:n. 奖杯. While[wail]conj(连词): 当…时, 而… Germany['dʒə:məni]:n. 德国. Repeat[rɪ'piːt]:vt.重复. Repeat champion两个词作为一个整体名词, 连冠. 本句译文: 五届冠军巴西想要拿回奖杯, 而德国正努力成为自1962年以来第一个连冠. 
  
  
+ 2018/6/19: Further action must be taken to encourage China to change its unfair practices, open its market to United States goods. 本句是一个被动句, further是far(远)的比较级, 更远的, 更进一步的. Action['ækʃən]n. 行动, 行为. Take action是一个常用的搭配. 采取行动. Encourage[ɪn'kʌrɪdʒ]vt. 鼓励. Unfair[ʌn'feə]adj. 不公平的. Practice['præktɪs]n. 做法. 本句译为: 近一步的行动必须要被采取以鼓励中国改变其不公平的做法, 向美国货物打开市场. (美国又要提升关税了)
  
  
+ 2018/6/20: The 3,280-feet(1,000-meter-tall) tall Jeddah Tower will knock Dubai’s iconic Burj Khlifa off its throne as the tallest skyscraper. Foot[fut]n. 脚, 英尺. 复数是不规则变化feet, knock[nɒk]:vt. 敲打, 撞. Off是常用介词, 之前上课讲过jump off是跳下来, knock off是击倒. Iconic[aɪ'kɒnɪk]是icon(图标, 标志)的形容词变化, 标志性的. Throne[θrəʊn]n. 王座. Game of thrones被译为权利的游戏. Skyscraper[skaiskreipə]n. 摩天大楼. 本句直译为: 3280英尺高的J塔将作为最高的摩天大楼将迪拜标志性的BK打下王座.
  
  
+ 2018/6/21: Until now, almost all international visitors to Saudi Arabia have been either business travelers or religious pilgrims. 本句是现在完成时, until是上节课讲的, 直到…，almost['ɔːlməʊst]adv.几乎. International: adj. 国际的. Visitor['vɪzɪtə]n. 参观者是visit(v&n.访问)的变化, 在词尾加or/er能让一些动词变成名词, …者.如worker 工人. either A or B: A或B. religious[rɪ'lɪdʒəs]adj宗教的. Prilgrim['pɪlgrɪm]n. 朝圣者. 本句译文: 直到现在, 几乎全部的到沙特的参观者都是商务旅行者或者宗教朝圣者. (新闻背景: 沙特要开发旅游业)
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ 2018/6/22: Bill Gates is rumored to have bunkers at all his properties. 本句是被动式. Rumor[ˈruːmə]n.&vt.谣传. Bunker['bʌŋkə]n. 地堡. At接小地点, property['prɒpətɪ]n. 财产, 产业. 本句译文: Bill Gates 被传说在他所有的产业都有地堡. 
+
+
+2018/6/25: Fast food company Burger King Russia has been forced to apologize after an advertisement. Fast food: 快餐. Burger King汉堡王. Russia['rʌʃə]n. 俄国. Force[fɔːs]n. 力量vt. 强制. Apologize[ə'pɒlədʒaɪz]vt.道歉. Advertisement[,ædvɚ'taɪzmənt]n. 广告. 本句译文: 快餐公司俄国汉堡王在一个广告之后已经被迫道歉. (本新闻背景: 广告内容为俄国女性如果怀了世界杯球员的孩子, 给47000美金奖金加终生免费汉堡王).
+
+
+2018/6/26: Chinese Ant Financial fell through to take over US money transfer service MGI after failing to get CFIUS approval. Ant financial 蚂蚁金融. Through[θruː]常用介词, 通过, 穿过…Fall through: 掉穿了, 就是落空, 失败. Take over: 拿来, 就是接管. 收购. Approval[ə'pruːvəl]n. 批准. 本句译文: 在获取CFIUS(美国外国投资委员会)批准失败之后, 中国的蚂蚁金融收购美国转账服务MGI落空.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
