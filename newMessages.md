@@ -336,6 +336,131 @@ Surrounding, surround围绕的现在分词, 也起到的是adj的作用，surrou
 2018/6/26: Chinese Ant Financial fell through to take over US money transfer service MGI after failing to get CFIUS approval. Ant financial 蚂蚁金融. Through[θruː]常用介词, 通过, 穿过…Fall through: 掉穿了, 就是落空, 失败. Take over: 拿来, 就是接管. 收购. Approval[ə'pruːvəl]n. 批准. 本句译文: 在获取CFIUS(美国外国投资委员会)批准失败之后, 中国的蚂蚁金融收购美国转账服务MGI落空.
 
 
+2.18/6/27: Navy divers are searching a flooded cave for 12 missing boys in northern Thailand. Navy[neivi]n. 海军. Dive[daiv]vi. 潜水. diver[daivə]n. 潜水员. flood[flʌd]n. 洪水. Vt. 淹没. Flooded是flood的过去分词, 被淹没的. Cave[keiv]n. 洞穴. Missing是miss的现在分词形式, adj. 失踪的. Northern是north的adj, 北方的. Thailand['taɪlænd]n. 泰国. 本句译文: 海军潜水员在泰国北部正在为了12个失踪的男生搜索一个被淹没的洞穴(一个教练加11个球员)
+
+
+2018/6/28: The third version of travel ban restricts entry from seven countries: Iran, North Korea, Syria, Libya, Yemen, Somalia and Venezuela. Travel ban: 禁行令. Restrict[ri’strickt]vt. 限制. Entry[entri]n. 进入. 本句译文: 禁行令的第三个版本限制了来自七个国家的进入. (最高法院支持美国总统新规定, 以上七个国家的人禁止进入美国).
+
+
+2018/6/29: China will not give up ‘any inch of territory’ in the Pacific Ocean, President Xi told US defense secretary James during a visit to Beijing. Give up: 常用词组, 放弃. Any在本句中为’任何’. Inch[ɪntʃ]n. 英寸. Territory['terɪtəri]n. 领土. Pacific Ocean: n. 太平洋. Defense[dɪ'fens]n. 防卫. Secretary[ˈsekrətrɪ]n. 秘书(做秘密的事情的人). Defense secretary: 国防部长. During: 在…期间. 本句译文: 在到访北京期间, 习主席跟美国国防部长James说中国不放弃任何一寸太平洋领土. 
+BTW: 倒数第二个带＊的句子proves改为process(流程).
+
+
+2018/7/2: China and Australia have joined the search for 12 boys missing in a Thai cave. Search[sɜːtʃ]n&vt. 搜索. 本句中为n. cave[keiv]n. 洞穴. missing in a Thai cave. 短语当形容词成分. 如果是单独一个现在分词missing做adj成分就放在boys前面, 因为是短语所以放在boys后面. 本句译文: 中国和澳大利亚已经加入了对于12个失踪在泰国洞穴的男生的搜索中.
+
+
+2018/7/3: 12 boys and their soccer coach are found after 9 days trapped in Thai cave. Soccer['sɒkə]n. 足球. Coach[kəʊtʃ] n. 教练. trap[træp]n. 陷阱. Vt. 困住. 本句是被动式 are found: 被找到. 时间及地点的短语都放在句尾. 本句译文: 在经过了在泰国洞穴被困住的九天之后, 12个男生和他们的足球教练被找到了. (edited)
+
+
+2018/7/4: NASA recently awarded Lockheed Martin a $247.5 million contract to build the highly anticipated aircraft. NASA: 美国航空航天局. 本组织经常出现在科幻类美国大片中. 如独立日, 变形金刚等.  Award[ə'wɔːd]n. 奖品. Vt. 授予. Contract['kɒntrækt]n. 合同. Anticiplate[æn'tɪsɪpeɪt]vt. 期望. Aircraft[ˈekrɑːft]n. 飞机. 飞行器. 本句译文: 美国航空航天局授予Lockheed Martin(美国一家航空公司)一个高达2亿4千750万的合同去建造高度期待的飞行器(无声超音速飞机).
+
+
+2018/7/5: A second town mayor in the Philippines has been shot and killed by an unknown assailant. Town[taun]n. 城镇. Mayor[ˈmeɪə]n. 市长, 镇长. Shoot[ʃuːt]vt. 射击. Shot是它的过去分词. Unknown[ʌn'nəʊn]adj. 未知的. Assail[ə'seɪl]vt. 攻击. Assailant[ə'seɪlənt]n. 攻击者. 本句译文: 已经第二个镇长在菲律宾被一个未知袭击者枪击杀害了.
+
+
+2018/7/6: Beijing says it’s ready to fight a trade war until the end. Be ready to do… 准备好做… fight[fait]vt&n. 打仗, 斗争. Trade war: 贸易战争. Until: prep介词&conj连词, 直到. (即后面既能跟名词也能跟一个完整句子) 本句译文: 北京说它已经准备好将贸易战争进行到底.
+
+
+2018/7/9: initially, officials said the strongest boys would be taken out of the cave first. Initially[ɪ'nɪʃəlɪ]adv. 一开始, 最初. 是一个表示时间的副词放在句首. Official[ə'fɪʃəl]adj. 官方的. n. 官员. 后面跟的said是动词, 因此这里是n官员的意思. Out of…从…出来. 本句译文: 最初, 官员说最强壮的男孩儿会先从洞穴中被救出来. (差不多半个月了, 救援情况复杂. 一大半人还在里面困着呢) (edited)
+
+
+2018/7/10: They(the rescue workers) are now resting and need at least 20 hours to prepare for the third operation. Rescue['reskjuː]vt&n. 救援. Rest[rest]vt&n. 休息. Prepare[prɪ'peə]n. 准备. Operation[ɒpə'reɪʃən]n. 行动, 操作. 本句译文: 他们(营救人员)现在在休整并且需要至少20个小时来准备第三次行动.
+
+
+2018/7/11: Medics would give an update on everyone’s condition at a media briefing on Wednesday morning. Medic['medɪk]n. 医师. On…关于(也可以用about), briefing['briːfɪŋ]n. 简报, 简会. At后面接小的地点. 单独说在早上/晚上, in the morning/evening, 当指出哪天早上时on … morning. 本句译文: 医师们将在周三早上的媒体简会上提供关于每个人情况的最新信息.
+
+
+2018/7/12: “Honjok” reflects the country’s growing number of single-person households and changing attitudes towards romance, marriage and family. Honjok是个韩语音译, 可以理解为 “独身一族” reflect[rɪ'flekt]vt. 反映. 这个的growing和changing都是adj, 表示正在…的… household['haʊshəʊld]n. 家, 户. Attitude['ætɪtjuːd]n. 态度. Towards[tə'wɔːdz]prep. 朝向, 对于, 和to基本同义. 本句译文: 独身一族反映出国家的正在增加的单人家庭数量以及对于浪漫, 婚姻和家庭正在改变的态度. (韩国现在成年单身人士比重持续升高)
+
+
+2018/7/13: When I first came to Korea in the 1970s, every Korean I knew had five or six siblings, and they all came from large families. 1970s表示20世纪70年代. 如1980s表示20世纪80年代. Sibling['sɪblɪŋ]n. 兄弟姐妹. 本句译文: 在20世纪70年代我初次到韩国时, 我认识的每个韩国人都是五六个兄弟姐妹, 他们都来自很大的家庭. 
+
+
+2018/7/16: France beats Croatia to win the World cup for the second time in the highest-scoring final since 1966. Beat[bi:t]vt. 打, 打败. France[fra:ns]n. 法国. Croatia[krəʊ'eɪʃjə]n. 克罗地亚. World cup: n. 世界杯. For the 序数词 time: 第…次. Score: [skɔː]n. 比分. Vt. 得分. Final['faɪnəl]n. 本句也是将地点和时间放在最后来说. 决赛. 本句译文: 自1966年之后, 法国在比分最高的决赛中击败克罗地亚, 第二次赢得世界杯.
+
+
+2018/7/17: The largest stone coffin was discovered on July 1 at a construction site in Egypt, it is considered as the property of the State. Stone[stəʊn]n. 石头. Coffin['kɒfɪn]n. 棺材. (谐音助记:棺材靠坟) construction[kən'strʌkʃən]n. 建筑. Construction site: n. 工地. Property['prɒpətɪ]n. 财产. 本句译文: 最大的石棺在七月一日被发现于埃及的一个工地, 被认为是国家的财产.(并没有被打开看看里面是啥）
+
+
+2018/7/18: 2018/7/18: The passing years steal from us one thing after another. Pass[pa:s]vt. 经过, 通过. Passing在这里是adj, 过去的. Steal[sti:l]vt. 偷走. 本句译文: 逝去的年华从我们这偷走一样又一样东西.
+
+
+2018/7/19: A little over a month after a 19th century ghost town in California called Cerro Gordo went on sale, Brent bought it for $1.4 million. A little: 一点儿. I’m a little tired. 我有一点儿累. Ghost town: 鬼镇, 指废弃的或者人特别少的城镇. For+价钱: 达…  Go on sale: 开售. 本句译文: 在加利福尼亚的一个叫CG的19世纪荒废城镇开售一个多月之后, B花了多达140万美金买下了. (这个城镇300多英亩, 折合一百二十万左右平米, 按平米算的话买的好便宜)
+
+
+2018/7/20: for instance, guests will be able to freely switch settings between work and leisure modes, and enjoy a more convenient and seamless room service experience. For instance['ɪnst(ə)ns]: 例如. Guest[gest]n. 客人. Leisure['leʒə]adj. 空闲的, 休闲的. Convenient[kən'viːnɪənt]adj. 方便的. Seamless['siːmlɪs]adj. 无缝的, 流畅的. Room service:客房服务. Experience[ɪkˈspɪərɪəns]:n&vt. 经历. 本句译文: 例如, 客人们将能够自由的在工作和休闲模式中切换设置, 并享受一个更舒适和流畅的客房服务体验. (北京的高档酒店开始增添高科技，例如声控等). 
+
+
+ 2018/7/23: The scanners feature 3D imagery, meaning security staff can see objects inside people’s baggage from all angles. Scanner['skænə]n. 扫描仪, scan是vt扫描. Feature['fiːtʃə]vt. 以…为特点. N. 特点. Imagery['ɪmɪdʒərɪ]n. 成像. Security[sɪ'kjʊərətɪ]n. 安全, 安保. Staff[sta:f]n. 工作人员, 经常在一些地方看到门上写着staff only就是指只有工作人员可以进入，闲人免进. Object['ɒbdʒɪkt]n. 物体. Baggage['bægɪdʒ]n. 行李. Angle['æŋg(ə)l]n. 角度. 本句译文: 扫描仪以3D成像为特点, 意味着安保人员可以从所有角度看到人们的行李里的物体.
+
+
+2018/7/24: There has been nothing around for miles in the American desert. Suddenly, you spot a gigantic arrow lying on the ground. Desert[ 'dezət]n.沙漠. For 后加时间或距离表示持续了多久(远). Suddenly[ˈsʌdnlɪ]adv. 突然. Spot[spɒt]vt. 发现. Gigantic[dʒaɪ'gæntɪk]adj. 巨大的. 比big要大. Giant是巨人. Arrow['ærəʊ]n. 箭头. Lying是lie的ing形式, 躺着. 本句译文: 在美国的沙漠中好几英里都啥也没有, 突然之间，你发现在地上躺着一个巨大的箭头(这些箭头是美国早期航空特别简陋的时候指路用的)
+
+
+2018/7/25: hundreds of thousands of vaccines provided for Chinese children have been found to be faulty. Hundreds of…数百的, thousands of: 数千的, hundreds of thousands of数百个数千的即数十万的. Vaccine['væksiːn]n. 疫苗. Provide[prə'vaɪd]vt. 提供. Provided for…在本句中是一个adj短语用来修饰vaccines, 是短语所以放在n后面. 本句主语是vaccines. Faulty['fɔːltɪ]adj. 有错误的. 有问题的. 本句译文: 数十万计的被提供给中国孩子的疫苗被发现有问题.
+
+
+2018/7/26: More than 10,000 people have been affected by a catastrophic dam collapse in southern Laos, according to figures published by the United Nations. Affect[ə'fekt]vt. 影响. Catastrophic[kætə'strɒfɪk]adj. 灾难性的(谐音助记: 看它四处飞). Dam[dæm]n. 水坝. Collapse[kə'læps]n&vt. 崩塌. According to: 根据… figure['fɪgə]n. 数字. 本句译文: 根据联合国发布的数字, 一万以上的人受到了在老挝南部的灾难性的水坝崩塌的影响.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
