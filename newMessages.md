@@ -404,20 +404,58 @@ BTW: 倒数第二个带＊的句子proves改为process(流程).
 
 
 
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+ 2018/8/6: we are asking (Tokyo Medical University) to investigate and report as soon as possible how entrance exams have been practiced. Ask somebody to do something: 让某人做某事. Investigate[ɪn'vestɪgeɪt]vt. 调查. Entrance[ˈentrəns]n. 入口. Entrance exam: 入学考试. Practice['præktɪs]n&vt. 练习. Vt. 实行. 本句译文: 我们正在让东京医科大学尽快调查并报告入学考试是被如何执行的. (东京医科大学篡改入门考试成绩, 将女性考生拒之门外)
 
 
+ 2018/8/7: in just five years, there’s been a six-fold increase in so-called McRefugees in Hong Kong. There’s been 是 there has been的缩写. –fold: 表示 “倍” “重”. Increase[ɪn'kriːs]n&vt 增加. So-called: adj. 所谓的… McRefugee是个新时代的组合词, 指在麦当劳过夜的流浪者. Mc代表Mcdonald’s 麦当劳. Refugee[refjʊ'dʒiː]n. 避难者, 流亡者. 本句译文: 就在五年内, 在香港, 所谓的麦当劳流浪者有六倍的增长.
 
 
+2018/8/8: Trump directed the Office of Trade Representative earlier this month to consider imposing a 25% tariff on an additional $200 billion worth of Chinese goods, including fruit and vegetables, handbags and refrigerators. Direct[di’rekt]vt. 指导. Trade[treid]n&vt. 交易, 贸易. Representative[repri'zentətiv]n. 代表. OTR: 美国贸易代表办公室. Impose[ɪm'pəʊz]vt. 强加, 征税. Worth[wɜːθ]n. 价值. Including[ɪn'kluːdɪŋ]prep. 包括… 本句译文: 本月初Trump指挥美国贸易代表办公室考虑向另外的价值2000亿的中国货物征收25%关税. 包括水果蔬菜, 手提包和冰箱.
 
 
+2018/8/9: China claims to have successfully tested its first hypersonic aircraft, a big step forward in aerospace technology. Claim[kleim]vt. 声称. Hyper-: 超… sonic[sɒnɪk]adj. 音速的, 声音的. Aircraft['eəkrɑːft]n. 飞行器. Step[step]n. 脚步. Forward['fɔːwəd]adv. 向前. Aero-: 空气的 space[speis]n. 空间. Aerospace: 航空. In…: 在…方面. 本句译文: 中国声称已经成功测试了第一个超声波飞行器, 是在航空科技方面的一大步.
 
 
+ 2018/8/10: Pitt has a statutory duty to pay child support. As of present, he has paid no meaningful child support since separation. State: [steit]n. 国家, 州. Statutory: ['stætjʊtərɪ]adj. 法定的. Duty['djuːtɪ]n. 责任. Child support: n. 子女抚养费. As of…固定搭配, 到…为止. Separation[sepə'reɪʃən]是separate的名词形式. 分离, 分居. 本句译文: 皮特有法定的责任去支付子女抚养费. 到目前为止, 自从分居后, 他没有支付有意义的子女抚养费. 
+
+2018/8/13: Richard Russell took off in a stolen plane at Seattle-Tacoma international airport on Friday night, flew for about an hour and crashed in a wooded island. Take off: vt. 起飞, 脱掉, 也可以形容突然发达了. Stolen['stəʊlən]是steal的过去分词, 在本句做adj使用, 被偷走的. Night夜晚. 具体周几的晚上前用on, 就像on Monday morning 一样. Flew是fly的过去时, for…后面是持续的时间/距离. Crash[kræʃ]vt. 坠毁. Wooded是wood的过去分词. Wood[wud]n. 木材, vt. 植树. 在本句也是adj. 被种植了树木的. 本句译文: 周五晚上, RR在一架S-T国际机场被偷的飞机起飞, 飞了一个小时然后坠毁在一座全是林子的小岛. (大片里偷飞机很容易看来是真的) (edited)
 
 
+ 2018/8/14: A theory suggests that after the islanders set up camp and carved the statues, they destroyed their own society through infighting. Theory['θiəri]n. 理论. Suggest[sə'dʒest]vt. 建议，提出. Island:n. 岛. Islander: 岛民 set up: vt. 建立. Camp[kæmp]n. 营地, 露营. Vt. 扎营. Carve[ka:v]vt. 雕刻. Statue[stætʃu:]n. 雕像. Destroy[dɪˈstrɔɪ]vt. 破坏. Fight[fait]: vt&n. 打架. Infighting就是内斗. 本句译文: 有个理论提出在岛民们安营并雕刻了那些雕像之后, 他们通过内斗毁掉了自己的社会. (科学家们仍在试图破解复活岛之谜)
+
+2018/8/15: A major section of the bridge collapsed on Tuesday, the search-and-rescue mission is expected to last for days. Major['meɪdʒə]adj. 主要的. Section['sekʃ(ə)n]n. 部分. 区域. Collapse[kə'læps]n.&vt. 崩溃, 倒塌. Mission['mɪʃən]n. 任务. Expect[ɪkˈspekt]vt. 预计, 期待. Last[last]vt. 持续. 本句译文: 桥的一个主要部分在周二倒塌了, 搜索营救任务被预计会持续数日. (意大利一条高速高架桥坍塌, 死亡惨重)
+
+2018/8/16: The women thought they were participating in a prank television show and thought the liquid was harmless. Participate[pɑː'tɪsɪpeɪt]vt. 参加, 参与. Prank[præŋk]n.&vt. 恶作剧. Thought是think的过去式. Liquid['lɪkwɪd]n. 液体. Harmless['hɑ:mləs]adj. 无害的. Harm是n. vt. 伤害. –less是一个常用后缀, 表示否定. 比如speechless说不出来话的. 本句译文: 那两个女人以为当时她们参与了一个恶作剧电视节目并且以为那个液体无害. (两个嫌疑人可能会被释放)
 
 
+ 2018/8/17: If you’ve got the right to live in New Zealand permanently, you’ve got the right to buy here. 在口语中have got=have. Right[rait]n. 权利. Adj. 正确的. Permanent['pɜːmənənt]adj. 永久的. 本句译文: 如果你有在新西兰永久居住的权利, 你就有在此购买(房产)的权利. (新西兰因房产市场价格过高, 开始限制外国人购买住房).
+
+2018/8/21: China’s navy is getting bigger and better. Earlier this month, China launched two 13,000-ton guided-missile destroyers. Get是形态类动词, 后面可跟adj. navy['neɪvɪ]n. 海军. Launch[lɔːntʃ]vt. 发射, (船)下水. guide[gaid]vt. 引导, 带领. N. 向导. Missile[‘mɪsl]n. 导弹. Guided-missile: 制导导弹. Destroy[dɪˈstrɔɪ]vt. 破坏. Destroyer就是有破坏能力的事物. 驱逐舰. 本句译文: 中国海军正在变得更强大并优秀. 本月初, 下水了两个13,000吨位的制导导弹驱逐舰(亚洲最大).
+
+2018/8/22: Stefano told CNN he felt shaking for at least one minute, and a seven-floor building was evacuated. Shake[ʃeɪk]vt. 摇动, 震动. Shaking是其ing形式动名词. At least 至少. Floor[flɔː]n. 楼层. Seven-floor: 复合在一起做adj. 七层的. Evacuate[ɪ'vækjʊeɪt]vt. 撤离. 疏散.  在自然灾害新闻中常见的词. 本句译文: Stefano告诉CNN他感觉到至少一分钟的震动. 一个七层的楼房被疏散(委内瑞拉发生7.3级地震).
+
+2018/8/23: Facebook CEO Mark Zuckerberg said the company’s attempts to identify fake pages, groups and accounts are making the social network safer. CEO: chief executive officer首席执行官. Attempt[ə'tempt]n&vt. 尝试, 企图. 努力. Identify[aɪ'dentɪfaɪ]vt. 识别. Fake[feik]adj. 伪造的. Vt. 捏造. Account[ə'kaʊnt]n. 账户. Make使役动词的用法之一make n adj. 如: Make it clean. 本句译文: FB 首席执行官MZ说公司识别虚假页面, 团体及账户的努力正在让社交网络更加安全.
+
+ 2018/8/24: David Ige urged residents to prepare weeks of supplies ahead of Hurricane Lane. Urge['ɜːdʒ]vt. 鼓励, 迫切要求. Resident[ˈrɛzɪdənt]n. 居民. Supply[sə'plaɪ]n. &vt. 供给. Ahead of: 在…之前. Hurricane[ˈhʌrɪkən]n. 暴风. 本句译文: (夏威夷执政官)David Ige 要求居民在飓风Lane之前准备数周的补给.
+
+2018/8/27: They call themselves housekeepers, but they are much more than that. They’re also entertainers, cleaners, waiters and even yoga teachers. Housekeeper: keep house 的人, 即管家. Much more than: 远大于… Entertain[entə'teɪnə]vt. 娱乐, 招待. +er即艺人. Clean: vt.清洁. +er为清洁工. 本句译文: 他们管自己叫管家, 但是他们远不止是管家. 他们也是艺人, 清洁工, 服务生, 甚至瑜伽老师.(超豪华游艇上的服务人员要身兼数职, 每月工资加小费大概在4万美金)
+
+ 2018/8/29: Your hair has to be tidy, your makeup has to look nice, you definitely cannot wear extravagant jewelry. Have to: 必须. Tidy[taidi]adj. 整洁的. Makeup[meikʌp]: n. 化妆. Look作为系动词使用, 看上去. definitely['defɪnɪtlɪ]adv. 肯定地, 必须地.Extravagant[ɪk'strævəgənt]adj. 奢侈的. 挥霍的. Jewelry['dʒuːəlrɪ]n. 珠宝. 本句译文: 你的头发必须整洁, 妆容看上去要好看, 你必须不能带奢侈的珠宝.(这是对超豪华游艇服务生的要求).
+
+2018/8/30: You are never too old to set another goal or to dream a new dream. Too… to: 太… 不能… set 设置, 制定. Dream: n&vt. 梦, 做梦. 在本句中第一个是vt, 表示做梦, 梦想得到… 第二个dream是名词, 梦想. 本句译文: 你永远不会太老了, 而无法设定一个新的目标或憧憬一个新梦想.
 
 
+2018/8/31: In 2016, there were 1.15 males for every female in China, one of the most skewed gender ratios in the world. 只要超过一个就要用复数, 因此是1.15 males. Skew[skju]vt. 偏离, 歪斜. Skewed是其过去分词当adj. 失衡的. Gender['dʒendə] n. 性别. Ratio['reɪʃɪəʊ]n. 比率, 比例. 本句译文: 在2016年, 中国1.15个男性对应一个女性, 是世界上最失衡的比例之一.
+
+2018/9/3: The site sells everything from appliances and apparel to groceries and has a huge logistics network for quick delivery. Appliance[ə'plaɪəns]n. 家用电器. Apparel[ə'pærəl]n. 服装. 成衣. 比clothes正式. Logistics[lə'dʒɪstɪks]n. 物流. Delivery[dɪ'lɪvərɪ]n. 递送, 交付. 本句译文: 网站销售一切, 从家用电器, 成衣到食品杂货, 并且有一个庞大的物流网络以便快速递送. (京东)
+
+ 2018/9/4: Huge skyscrapers are changing the whole profile of the city, a 46-story tower will be the tallest in Ethiopia in 2020. Sky天空. Scrape[skreip]vt. 刮, 擦. Skyscraper 摩天大楼. Profile[prəfail]n. 概况, 轮廓. 本句译文: 巨大的摩天大楼正在改变整个城市的轮廓, 一个46层高的塔将在2020年成为埃塞尔比亚最高的(建筑)(这个非洲国家的现代建筑大部分都是中国给造的)
+
+
+2018/9/5: Chinese President Xi has announced a $60 billion package of aid, investment and loans to Africa. Announce[ə'naʊns]vt. 宣布. Package['pækɪdʒ]n. 包裹, 打包服务. Aid[eid]n. & vt 援助. Investment[ɪn'ves(t)mənt]n. 投资. Loan[ləʊn]n. 贷款. 本句译文: 中国主席习宣布了给非洲600亿的援助, 投资和贷款的打包计划.
 
 
 
