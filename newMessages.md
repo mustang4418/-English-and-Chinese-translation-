@@ -457,22 +457,21 @@ BTW: 倒数第二个带＊的句子proves改为process(流程).
 
 2018/9/5: Chinese President Xi has announced a $60 billion package of aid, investment and loans to Africa. Announce[ə'naʊns]vt. 宣布. Package['pækɪdʒ]n. 包裹, 打包服务. Aid[eid]n. & vt 援助. Investment[ɪn'ves(t)mənt]n. 投资. Loan[ləʊn]n. 贷款. 本句译文: 中国主席习宣布了给非洲600亿的援助, 投资和贷款的打包计划.
 
+2018/9/6: after a decade of construction, the mostly subterranean Shimao Wonderland InterContinental is set to open this October in Shanghai. Decade['dekeɪd]n. 量词, 十年. Mostly['məʊs(t)lɪ]adv. 大部分, 主要地. Sub-此词根表示在下面, 比如submarine潜水艇. Terrain[təˈreɪn]n. 地形, 地势. Subterranean[,sʌbtə'reɪnɪən]adj.地下的. Set在本句中是过去分词, 与前面的is构成被动式, be set to…被定在… 本句译文: 经过了十年的建设, 大部分在地下的世贸(深坑)仙境洲际酒店被定在十月在上海开放.
 
+2018/9/7: for thrill-seekers, the hotel makes use of its position inside a craggy pit to provide bungee jumping and rock climbing. Thrill[θrɪl]n. 紧张, 刺激. Seek[siːk]vt. 寻找. Thrill-seeker: 寻找刺激的人. Make use of固定词组, 利用. Position[pəˈzɪʃən]n. 位置. Inside在…里. Craggy['krægɪ]adj. 陡峭的. Pit[pit]n. 坑. 本句译文: 为寻找刺激的人, 酒店利用其在陡峭的坑中的位置提供蹦极和攀岩.
 
+2018/9/10: the coins，hundreds of them, date back to the late Roman era and were found in a jar unearthed in a basement in Como. Coin[kɒɪn]n. 钱币. Date back to…追溯回… era['ɪərə]: 时代. Jar[dʒɑː]n. 广口瓶, 罐. Unearth[ʌn'ɜːθ]vt. 挖掘. Earth是地球, 土地. Un是一个常用的前缀否定. 本句译文: 数以百计的钱币(金币), 可追溯回罗马后期, 在从Como一个地下室里挖掘出来的罐子中被发现.
 
+2018/9/11: the quake is the latest in a string of natural disasters in Japan recently, including deadly floods, typhoons, earthquakes, landslides and heatwaves. String[strɪŋ]n. 线, 弦. 字符串. A string of: 一连串的… natural[ˈnætʃrəl]adj. 自然的. Disaster[dɪ'zɑːstə]n. 灾难. Deadly['dedlɪ]adj. 致命的. 少数的几个词尾为ly的adj. flood[flʌd]n. 洪水. typhoon[taɪ'fuːn]n. 台风. Earthquake['ɜːθkweɪk]n. 地震. Landslide['læn(d)slaɪd]n. 山崩. Land是土地, slide是vt. 滑动. Heatwave['hi:tweiv]n. 热浪, 酷热. 本句译文: 地震是最近在日本的一连串自然灾害的最新一个, 包括致命的洪水，台风，地震，山崩和酷热.
 
+2018/9/12: a drug company executive decided to raise the price of a drug from $500 per bottle to $2,300, he said he was in this business to make money. Executive[ɪgˈzekjʊtɪv]n. 执行官, 公司主管. Raise[reiz]vt. 提升. Per: 每. 本句译文: 一个医药公司主管决定提升一种药的价格从500一瓶到2300一瓶，他说从事这个行业就是为赚钱.
 
+2018/9/13: China and Russia have been moving closer as both countries look to build a countermeasure against Washington. Have been doing…表示一直在…; as… 常用的意思有: 作为… ; 因为…, 本句中是因为… look to do… 指望做… counter… 表示反… 如counterclockwise: 逆时针. Measure['meʒə]: n. 办法. Countermeasure即为对策. 本句译文: 中国和俄罗斯走的越来越近, 因为两个国家都指望为对抗Washington建立一个对策
 
+@channel 2018/9/14: the company(Nio), it was found only four years ago, is attempting to take on Tesla in China, the world’s biggest electric vehicle market. Nio: 蔚来公司的英文名. Attempt[ə'tempt]vt. 尝试, 试图. Take on: 口语常用词组, 与… 较量. Electric[ɪ'lektrɪk]adj. 电的, 电动的. Vehicle[viːɪkəl]n. 车辆. 本句译文: Nio公司仅成立四年, 正在与Tesla在世界最大的电动车市场-中国进行较量.
 
-
-
-
-
-
-
-
-
-
+2018/9/17: the world’s strongest storm this year, Typhoon Mangkhut, continued its path of destruction across Southeast Asia. Storm[stɔːm]n. 暴风雨. Destruction[dɪ'strʌkʃən]n. 破坏. 毁灭. 本句译文: 今年世界上最强的暴风雨, 台风山竹, 继续着它破坏的路径横跨东南亚.
 
 
 
