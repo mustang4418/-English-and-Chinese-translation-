@@ -473,19 +473,19 @@ BTW: 倒数第二个带＊的句子proves改为process(流程).
 
 2018/9/17: the world’s strongest storm this year, Typhoon Mangkhut, continued its path of destruction across Southeast Asia. Storm[stɔːm]n. 暴风雨. Destruction[dɪ'strʌkʃən]n. 破坏. 毁灭. 本句译文: 今年世界上最强的暴风雨, 台风山竹, 继续着它破坏的路径横跨东南亚.
 
+2018/9/18: Mangkhut made landfall in Guangdong, China’s most populous province, late afternoon Sunday, killing four people before heading west into Guangxi. Landfall['læn(d)fɔːl]n. 着陆. Fall在land上就是着陆. Population[pɒpjʊ'leɪʃən]n. 人口. Populous['pɒpjʊləs]:adj. 人口多的. Province['prɒvɪns]n. 省. Head[hed]n. 头. vt. 朝…方向走. 本句译文: 山竹在广东, 中国人口最多的省着陆, 在周日近傍晚, 在朝西走向广西前, 四人丧生.
 
+2018/9/19: China has fired back at the United States after President Trump intensified the trade war, said it would impose tariffs on US goods worth $60 billion. Fire['faɪə]n. 火, vt. 开火, 开除. Fire back at…回击… intensify[ɪn'tensɪfaɪ]vt. 增强, 强化. Impose[ɪm'pəʊz]vt. 强加, 征税. Tariff['tærɪf]n. 关税. Worth[wɜːθ]adj. 值… 的. 本句译文: 在Trump加剧了贸易战后, 中国回击了美国, 说将向美国价值600亿的货物征税(稅点5%-10%不等)
 
+2018/9/20: the objective of the tariffs is not to bring Beijing to the bargaining table, it is to force US companies to pull back their investment in China. Objective[əb'dʒektɪv]n. 目标. Bargain[ˈbɑːɡɪn]n&vt. 交易, 议价. Bargaining在本句中为adj, bargaining table: 谈判桌. Force[fɔːs]n. 力量. Vt. 迫使. 以武力强迫. Investment[ɪn'vestmənt]n. 投资. 本句译文: 关税的目的不是为了将北京带到谈判桌, 而是迫使美国的公司撤出对中国的投资.
 
+2018/9/21: in a letter, the company(Walmart) said expanded[ɪk'spænd](vt. 扩张, 增加) tariffs on Chinese imports[ɪm'pɔːt](vt&n. 进口, 进口货) would hurt its customers['kʌstəmə](n. 顾客), its suppliers[sə'plaɪə](n. 供应商) and the US economy[ɪ'kɒnəmɪ](n. 经济). 本句译文: 在一封信中, 沃尔玛说在中国进口货物上增加的关税将伤害到他们的顾客, 供应商和美国的经济.
 
+2018/9/25: An Indonesian teen has been rescued after drifting at sea for 49 days on a floating fish trap. Indonesian[,indəu'ni:zjən]adj. 印尼人. 印尼语. Adj. 印尼的. Indonesia['indəu'ni:zjə]n. 印尼. Drift[drift]vt. 漂流. After为介词, 后需接名词做宾语, 因此drift加了ing. For加时间表示持续了… float[fləʊt]vt. 漂浮. 此处floating为形容词. Trap[træp]n.&vt. 陷阱. 本句译文: 一个印尼少年在一个漂浮的捕鱼笼上漂流在海上49天之后被营救.
 
+2018/9/26: In less than two years, my administration has accomplished more than almost any administration in the history of our country. Administration[ədmɪnɪ'streɪʃən]n. 管理. 政府. 行政机构. Accomplish[ə'kʌmplɪʃ]vt. 达成, 完成. Almost['ɔːlməʊst]adv. 几乎, 差不多. 本句译文: 在不到两年的时间里, 我的政府完成的比几乎我们国家历史上任何一个(美国)政府都多. (就是那么自信)
 
-
-
-
-
-
-
-
+2018/9/27: a long-lost warship has been discovered off the coast of China, it was lost during the first war against Japan in 1894. Long-lost: 丢失了很长时间的. Warship['wɔːʃɪp]n. 战舰. Off the coast[kəʊst](n. 海岸): 固定搭配, 表示在沿岸. Against[ə'geɪnst]prep. 反对… 对抗… 本句译文: 一个丢失了很久的战舰被发现在中国沿岸, 它是在1894年第一次对日战争中丢失的.
 
 
 
