@@ -487,7 +487,7 @@ BTW: 倒数第二个带＊的句子proves改为process(流程).
 
 2018/9/27: a long-lost warship has been discovered off the coast of China, it was lost during the first war against Japan in 1894. Long-lost: 丢失了很长时间的. Warship['wɔːʃɪp]n. 战舰. Off the coast[kəʊst](n. 海岸): 固定搭配, 表示在沿岸. Against[ə'geɪnst]prep. 反对… 对抗… 本句译文: 一个丢失了很久的战舰被发现在中国沿岸, 它是在1894年第一次对日战争中丢失的.
 
-
+2018/9/29: the team reports that there are more than 500 relics in the ship-including ceramics, leather goods and glass. Old weapons were also discovered. Relic['relɪk]n. 遗物, 古物. Ceramic[sɪ'ræmɪk]n. 瓷器. Leather['leðə]n. 皮革adj. 皮革的. Weapon['wep(ə)n]n. 武器. Discover[dɪ'skʌvə]vt. 发现. Discovery: n. 发现. 本句译文: 团队报道说在船里有500多件古物, 包括瓷器, 皮革制品和玻璃制品. 也发现了古老的武器.
 
 
 
