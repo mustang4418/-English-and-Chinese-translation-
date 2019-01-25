@@ -489,34 +489,36 @@ BTW: 倒数第二个带＊的句子proves改为process(流程).
 
 2018/9/29: the team reports that there are more than 500 relics in the ship-including ceramics, leather goods and glass. Old weapons were also discovered. Relic['relɪk]n. 遗物, 古物. Ceramic[sɪ'ræmɪk]n. 瓷器. Leather['leðə]n. 皮革adj. 皮革的. Weapon['wep(ə)n]n. 武器. Discover[dɪ'skʌvə]vt. 发现. Discovery: n. 发现. 本句译文: 团队报道说在船里有500多件古物, 包括瓷器, 皮革制品和玻璃制品. 也发现了古老的武器.
 
+-------------
 
+2018/12/07: Even if it could be done, costlier American labor and production facilities would seriously increase the I-phone’s cost. Even if: 即使… costly['kɒs(t)lɪ]adj. 昂贵的, 代价高的. Labor['leɪbə]n. 劳工. 人工. Facility[fə'sɪləti]n. 设施. Serious['sɪərɪəs]adj. 严肃的. 严重的. 本句译文: 即使这个事情(将iphone生产工厂转移回美国)有可能实现, 更昂贵的美国人力和生产设备会严重的提升Iphone的成本.
+本周作业: 1. 选择题句子写两遍. 2. 连词成句写两遍. 3. 复习下周考试内容.
 
+ 2018/12/11: Samsung is the world’s largest smartphone maker, accounting for about 20% of global market share last quarter, according to research firm Canalys. Account for: 占(比例), global['gləʊbəl]adj. 全球的. Share[ʃeə]vt. 分担, 分享. N. 份额. 本句译文: 三星是世界上最大的职能电话制造商, 上个季度占据全球份额的20%, 据调研公司Canalys说.
 
+ 2018/12/12: President Donald Trump said Tuesday his administration is open to using the arrest of Huawei chief financial officer Meng Wanzhou as a bargaining chip in ongoing trade negotiations with China. Administration[ədmɪnɪ'streɪʃ(ə)n]n. 管理, 管理机构. 即admin的全写. Is open to: 采取开放的态度, 即不反对. Arrest[ə'rest]n.&vt. 逮捕. Bargain[ˈbɑːɡɪn]n. &vt. 交易, 议价. Chip[tʃɪp]n. 筹码. Ongoing['ɒngəʊɪŋ]:adj. 持续进行中的. Negotiation[nɪgəʊʃɪ'eɪʃ(ə)n]: n. 谈判. 本句译文: 川普总统周二说他的执政机构不反对将华为CFO的逮捕当作是在与中国持续的谈判中的交易筹码.
 
+2018/12/14: Just 946,060 babies were born in 2017 in Japan, a record low since official records began in 1899. Be born: 出生, 诞生. Record high/low: 常用新闻说法, 历史最高/低值. 本句译文: 2017年在日本直邮946,060婴儿出生, 是自从1899年开始有官方记录之后的最低值.
 
+2018/12/21: Japan is going to put its first aircraft carriers to sea since World War II, the government announced Tuesday. Aircraft['eəkrɑːft]: n. 飞机. Carry['kærɪ]:vt. 拿, 携带. 词尾改y为i加er即为carrier运送者, 载体. Aircraft carrier: 航空母舰. 本句译文: 日本将投入自从二战之后的第一批航空母舰入海, 其政府于周二宣布.
 
+2018/12/24: One of the UK’s biggest airports is finally restarting operations after over 32 hours of complete shutdown due to repeated drone sightings. UK: united kingdom即英国. Restart: re-再次，即再次启动. Complete[kəm'pliːt]adj. 彻底的, 完全的. Vt. 完成. Shutdown['ʃʌtdaʊn]n. 关机, 停工. Due to…由于… drone[drəʊn]n. 无人机. Sighting['saɪtɪŋ]n. 看见, 目击. 本句译文: 英国最大的机场之一在超过32小时的彻底关闭后终于再次启动运作, 由于目击无人机.
 
+ 2018/12/25: 2018/12/25: Japanese citizens can now enjoy visa-free or visa-on-arrival access to a whopping 190 destinations around the world. Visa['viːzə]: n. 签证. Arrival[ə'raɪv(ə)l]: n. 到达. Whopping['wɒpɪŋ]:adj. 巨大的, 庞大的. Destination[,destɪ'neɪʃ(ə)n]: 目的地. 本句译文: 日本公民现在享受全球数量庞大的190个目的地的免签或落地签.
 
+2019/1/17: it is an urgent task to understand how to safeguard health in the face of these dramatic trends. Urgent[ˈɜːdʒənt]adj: 紧急的. Safeguard['seɪfgɑːd]:vt. 保护. (舒肤佳的英文名称). Health[helθ]n. 健康. In the face of…: 在…的面前. 在面对…时. Dramatic[drə'mætɪk]adj. 戏剧化的, 急剧的. Trend[trend]n. 趋势. 本句是一个it形式主语句. 真正的主语是从 to 开始. 本句翻译: 在面对这些急剧的(环境恶化)趋势时了解如何保护(人们的)健康是一个紧急的任务.
 
+2019/1/18: The US and the UK finished six days of coordinated drills in the South China Sea on Wednesday. US: united states, 即美国. UK: United Kingdom, 即英国. Coordinate[kəʊ'ɔ:dɪneɪt]vt. 协同, 协调. Drill[drɪl]: vt.&n. 训练, 演习. 本句译文: 美国和英国在周三时结束了在中国南海的六天的协作军事演习.
 
+2019/1/19: Cotton seeds carried to the moon by a Chinese probe have sprouted, this could be the first plant that ever grow there. Cotton['kɒt(ə)n]n. 棉花. Seed[siːd]n. 种子. Carried… 是一个短语做修饰语放在cotton seeds后面. Probe[prəʊb]n. (航天)探测器. Sprout[spraʊt]vt. 发芽. Plant that…是定语从句, that是指示代词, 指代plant. 本句译文: 由中国航天探测器带到月球的棉花种子发芽了, 这是长在那里的第一批植物.
 
+2019/1/22: Since the beginning of January, the Chinese military has revealed an array of sophisticated and powerful new weaponry. Military['mɪlɪt(ə)rɪ]n. 军队. Reveal[rɪ'viːl]vt. 透露. 揭示. Array[ə'reɪ]n. 数组, 系列. An array of: 量词词组, 即一系列的. Sophisticated[sə'fɪstɪkeɪtɪd]: 复杂的, 精密的. Weaponry['wep(ə)nrɪ]n. 兵器, 武器. 本句译文: 自从一月开始, 中国军队展现了一系列精密并强大的新武器.
 
+2019/1/23: earlier this month, the University of California warned students and staff traveling in China not to use WhatsApp or WeChat. Warn[wɔːn]: vt. 警告. Staff[stɑːf]n. 职员, 本词是一个集合名次，没有单复数之分，和people是一类词. Travelling in China是形容词短语, 放在名词后. 本句译文: 本月的前一段时间, 加州大学警告在中国的学生和工作人员不要使用WhatsApp或者微信.
 
+2019/1/24: the country’s annual spring festival rush-the biggest human migration on the planet is now officially underway. Annual['ænjʊəl]adj. 年度的. Spring festival: 春节. Festival[ˈfestəvl]n. 节日. Rush[rʌʃ]n. &vt. 冲, 急流. Migration[maɪ'greɪʃ(ə)n]n. 迁移. Official[ə'fɪʃ(ə)l]]adj. 正式的. Underway经常用在be动词后, 表示正在进行中. 本句译文: 中国的年度春运-本星球上最大的人口迁移现在正式开始了.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 2019/1/25: according to online Chinese ticketing giant Ctrip, an estimated 7 million people are planning to travel internationally over the Chunyun period to more than 90 countries. According to: 根据… Ctrip: 携程. Giant['dʒaɪənt]n. 巨人. 巨头. Estimate: vt. 估计. Period['pɪərɪəd]n. 时期. The period of…: … 期间. 本句译文: 根据网上中国订票大公司携程, 估计7百万人计划在春运期间到超过90个国家进行跨国旅游.
 
 
 
