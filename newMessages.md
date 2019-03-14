@@ -522,9 +522,61 @@ BTW: 倒数第二个带＊的句子proves改为process(流程).
 
 2019/1/26: Cigarette butts containing plastic filters are the most littered item in the world and it takes up to a decade to decompose. Butt[bʌt]n. 烟头. Plastic['plæstɪk]adj. 塑料的. Filter['fɪltə]n. 过滤. Litter['lɪtə]vt. 乱扔(垃圾). 在一些景点能看到标语: No littering. 勿乱扔废弃物. Decompose[diːkəm'pəʊz]vt. 分解. 本句译文: 含有塑料过滤的烟头是世界上被乱扔的最多的东西, 要花十年才能分解.
 
+---
 
+2019/2/14: The Mars rover’s team made its last attempt to contact Opportunity on Tuesday night, and it went unanswered. Mars[mɑ:z]n. 火星. Rover['rəʊvə]: n. 探测器. Attempt[ə'tem(p)t]n. 试图, 尝试. Contact['kɒntækt]n. 联系. Opportunity[ˌɒpəˈtju:nətɪ]n. 机遇. 句中指机遇号探测器. 本句译文: 火星探测器团队在周二晚最后尝试联系机遇号, 没有回应.
 
-
+ 2019/2/15: Huawei sold 30 million phones in China in the last three months of 2018, nearly three times as many as Apple. As adj. as: 像…一样… 本句译文: 在2018年最后三个月中华为卖掉了3千万手机, 几乎是苹果的三倍.
+ 
+ 2019/2/19: The World Health Organization has cautioned that the long-term effects of vaping are unknown, and the nicotine they contain is addictive. WHO: 世界健康组织. Caution['kɔːʃ(ə)n]: vt. 警告. n. 小心. 谨慎. Long-term: 长期的. Vaping: n. 电子烟. Effect[ɪ'fekt]: 效果. They contain前省略了一个that, 该部分为定语从句, 修饰nicotine: n. 尼古丁. Addictive[ə'dɪktɪv]: adj. 使人上瘾的. 本句译文: 世界健康组织警告电子烟的长期效果未知. 里面含有的尼古丁能让人上瘾.
+ 
+  2019/2/20: Australia and New Zealand have blocked mobile carriers from using Huawei For 5G networks, other governments, including the United kingdom, are reviewing the situation. Block[blɒk]vt. 阻止, 限制. Carrier['kærɪə]n. 运送者, 提供电话或保险服务的公司. Block/stop…from doing sth: 阻止… 做…. Situation[sɪtjʊ'eɪʃ(ə)n]: 情况, 形势. 本句译文: 澳大利亚和新西兰已经禁止了移动电话公司使用华为5G网络, 其他政府, 包括英国正在观察情况.
+  
+ 2019/2/21: Fashion retailer Zara published photos of one of the country’s top models without retouching her freckles. Retailer['riːteɪlə]n. 零售商. Publish['pʌblɪʃ]vt. 出版, 发表. Retouch[riː'tʌtʃ] n.&vt. 修饰, 润色. Freckle['frek(ə)l]n. 雀斑. 本句译文: 时尚零售商Zara发表了一个中国超模的照片, 没修掉她的雀斑.
+ 
+ 2019/2/22: Galaxy Fold has a hinge system that can’t be seen from the outside, it can open up into a 7.3-inch tablet. Fold[fəʊld]vt. 折叠. Hinge[hɪndʒ]n. 折叶. 本句译文: (三星)Galaxy Fold有一个从外面看不到的折叶系统, 能打开变成一个7.3寸的平板(将在4月发布, 售价1980美金).
+ 
+ 2019/2/25: On Sunday, Huawei unveiled its new device, the Mate X, which is both foldable and 5G capable. veil[veɪl]n. 面纱. Unveil[ʌn'veɪl]vt. 揭开. 使公之于众. Fold[fəʊld]vt. 折叠. –able: 能… foldable: adj. 能折叠的. Capable['keɪpəb(ə)l]adj. 能胜任的. 有能力的. 本句译文: 在周日, 华为揭幕了新设备, Mate X, 能折叠并且能使用5G.
+ 
+ 2019/2/26: Craig Coley spent 39 years in prison for a double murder he didn’t commit. Now, he’s getting $21 million. Prison['prɪz(ə)n]n. 监狱. Murder['mɜːdə]vt.&n. 谋杀. commit[kə'mɪt]: vt. 犯罪. 提交. He didn’t commit前省略了一个that, 是定语从句. 本句译文: CC在监狱呆了39年, 因为一个不是他做的双重谋杀. 现在他得到了两千一百万美金.
+ 
+ 2019/2/27: Since the scorching hot summer of 2006, almost 3,000 archaeological artifacts have appeared from the melting ice. Scorch[skɔːtʃ]vt. 烧焦. Scorching为adj. 灼热的. Archaeological[,ɑ:kiə'lɔdʒikəl]adj. 考古学. Artifact['ɑ:təˌfækt]n. 手工艺品. Melt[melt]vt. 融化. Melting为adj. 融化的. 本句译文: 自从2006年灼热的夏天之后, 已经有大约3000件考古学文物从融化的冰中显露了出来.
+ 
+ 2019/2/28: The 32,000-square-foot Tokyo Roastery will open to the public on Thursday morning. It overtakes the one in Shanghai as the biggest Starbucks on the planet. Roastery[rəʊstəri]n. 烘焙工坊. Overtake[əʊvə'teɪk]vt. 赶上. 压倒. 本句译文: 三万两千平的日本烘焙工坊将周四早上开放, 赶超上海成为世界上最大的星巴克.
+ 
+  2019/3/1: On Wednesday, the Japanese gaming company announced the launch of two new Pokemon games on its Switch console: Pokemon Sword and Pokemon Shield. Announce[ə'naʊns]vt. 宣布. Launch[lɔːntʃ]n. 发行. Vt. 发射. Switch console: switch游戏机. Sword[sɔːd]n. 剑. Shield[ʃiːld]n. 盾.
+  
+  2019/3/4: Malaysian Prime Minister has promised to continue the search for Malaysia Airlines Flight 370, almost five years to the day since it disappeared. Malaysian[mə'leiʒən]adj. 马来西亚的. Malaysia[məˈleɪʒə]n. 马来西亚. Prime minister: 首相. 本句译文: 马来西亚首相承诺继续进行马航370的搜索, 自从失踪迄今差不多五年了.
+ 
+  2019/3/5: Huawei’s CFO is accusing Canadian authorities of violating her rights when they detained her on behalf of the US government. Accuse[ə'kjuːz]vt. 指控, 控告. 用法: Accuse somebody of doing something. Violate['vaɪəleɪt]vt. 侵犯, 违反. Detain[dɪ'teɪn]vt. 拘留. 扣押. On behalf of…: 代表… 本句译文: 华为CFO指控加拿大政府在代表美国政府扣押她的时候侵犯她的权利.
+  
+  2019/3/6: This year, the KFC branch in Lei’s hometown of Changsha, reopened with the walls adorned with excerpts from Lei’s diary and cartoon depictions of him. Branch[brɑːn(t)ʃ]n. 分支. 分店. Adorn[ə'dɔːn]vt. 装饰. Excerpt['eksɜːpt]n. 摘录, 引用. Depiction[dɪ'pɪkʃn]n. 描绘, 刻画. 本句译文: 今年, 雷锋故乡长沙的KFC分店重新开张, 装饰着雷锋日记的摘录和他的卡通画像.
+  
+  2019/3/7: The Yum-owned brand Taco Bell flagship restaurant is in one of Shanghai’s glitziest districts, surrounded by high-end fashion stores. Yum: 百胜集团. Own[əʊn]: vt. 拥有. Flag[flæg]n. 旗帜. Ship[ʃɪp]n. 船, 舰. Flagship: 旗舰. Glitzy['glɪtsɪ]adj. 炫目的, 耀眼的. District['dɪstrɪkt]: n. 区域. Surround[sə'raʊnd]:vt. 包围. 本句译文: 百胜集团拥有的品牌塔克钟旗舰餐厅在上海最耀眼的区域之一, 被高端时尚店包围着.(百胜集团旗下有必胜客, 肯德基等)
+  *BTW*: 体检报告纸质版将在下周某天由业务经理送达, 并有一名医生随行帮助大家分析报告.
+  
+  2019/3/8: Skinny people don’t have faster metabolisms than people who weigh more. In fact, the bigger your body, the more calories you burn. Skin[skɪn]n. 皮肤. Skinny: adj. 皮包骨的. Metabolism[mɛ'tæbəlɪzəm]n. 新陈代谢. Weigh[weɪ]vt. 称重. Burn[bɜːn]vt. 燃烧. 本句译文: 瘦人并没有比胖人快的新陈代谢. 事实上, 体型越大, 燃烧的卡路里越多.
+  
+  2019/3/11: for the second time in less than six months, a brand-new Boeing aircraft has crashed just minutes into a flight. Brand[brænd]n. 商标. Brand-new: adj. 崭新的. Aircraft['eəkrɑːft]:n. 飞机. Crash[kræʃ]: vt. 坠毁. 撞碎. Flight[flait]n. 飞行. 本句译文: 在不到六个月内第二次, 一个崭新的波音飞机在飞行几分钟就坠毁了.
+  
+   2019/3/12: Beijing tells airlines to ground 737 Max 8 Jets after Ethiopian Airlines crash which killed everyone onboard. Airline['eəlaɪn]n. 航空公司. Jet[dʒet] n. 喷气式飞机. Ground[graʊnd]n. 地面. Vt. 飞机留在地面上, 即停飞. Ethiopian[,i:θi'əupiən]adj. 埃塞俄比亚的. Which引领定语从句, 指代crash. Onboard[ɒn'bɔ:d]adv. 在船/飞机上. 本句译文: 在埃航的全员丧生的坠毁之后, 北京让航空公司停飞737 Max 8 喷气式飞机.
+   
+  
+  2019/3/13: since the blackout started, food has become even scarcer. Venezuelan president says power recovery will come “little by little”. Blackout['blækaʊt]n. 断电. Scarce[skeəs]adj. 缺乏的. Venezuelan[ˌvɛnɪˈzweɪlən]adj. 委内瑞拉的. Recovery[rɪ'kʌv(ə)rɪ]n. 恢复. 本句译文: 自从断电开始之后, 食物就变的更加缺乏了. 委内瑞拉总统说电力恢复会一点点来. (委内瑞拉全国大面积停电已一周).
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
 
 
 
