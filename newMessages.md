@@ -520,7 +520,7 @@ BTW: 倒数第二个带＊的句子proves改为process(流程).
 
  2019/1/25: according to online Chinese ticketing giant Ctrip, an estimated 7 million people are planning to travel internationally over the Chunyun period to more than 90 countries. According to: 根据… Ctrip: 携程. Giant['dʒaɪənt]n. 巨人. 巨头. Estimate: vt. 估计. Period['pɪərɪəd]n. 时期. The period of…: … 期间. 本句译文: 根据网上中国订票大公司携程, 估计7百万人计划在春运期间到超过90个国家进行跨国旅游.
 
-
+2019/1/26: Cigarette butts containing plastic filters are the most littered item in the world and it takes up to a decade to decompose. Butt[bʌt]n. 烟头. Plastic['plæstɪk]adj. 塑料的. Filter['fɪltə]n. 过滤. Litter['lɪtə]vt. 乱扔(垃圾). 在一些景点能看到标语: No littering. 勿乱扔废弃物. Decompose[diːkəm'pəʊz]vt. 分解. 本句译文: 含有塑料过滤的烟头是世界上被乱扔的最多的东西, 要花十年才能分解.
 
 
 
